@@ -1,0 +1,7 @@
+com/otc/escapegames/core/User.class
+com/otc/escapegames/db/mappers/UserMapper.class
+com/otc/escapegames/services/UserService.class
+com/otc/escapegames/db/UserDAO.class
+com/otc/escapegames/apiConfiguration.class
+com/otc/escapegames/resources/UserResource.class
+com/otc/escapegames/apiApplication.class
